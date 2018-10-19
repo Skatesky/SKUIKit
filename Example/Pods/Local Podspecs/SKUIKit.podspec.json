@@ -1,0 +1,22 @@
+{
+  "name": "SKUIKit",
+  "version": "0.1.0",
+  "summary": "SKUIKit contains some often used UI",
+  "description": "Integration often used UI.",
+  "homepage": "https://github.com/zhanghuabing/SKUIKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhanghuabing": "zhanghuabing@douyu.tv"
+  },
+  "source": {
+    "git": "https://github.com/zhanghuabing/SKUIKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SKUIKit/Classes/**/*"
+}

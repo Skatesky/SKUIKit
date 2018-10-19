@@ -1,0 +1,6 @@
+framework module SKUIKit {
+  umbrella header "SKUIKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
